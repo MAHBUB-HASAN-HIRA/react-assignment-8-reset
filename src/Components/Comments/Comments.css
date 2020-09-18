@@ -1,0 +1,25 @@
+.comment_container{
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+.comments_details{
+    display: flex;
+}
+.avatar{
+    width: 70px !important;
+    height: 70px !important;
+    margin-right: 10px;
+}
+.div2{
+    margin-top: -20px;
+}
+.div2 h4{
+    font-weight: 600;
+    line-height: 1rem;
+}
+.div2 p{
+    font-weight: 500;
+    color: gray;
+    line-height: 1rem;
+    margin-top: -5px;
+}

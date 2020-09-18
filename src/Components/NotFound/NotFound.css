@@ -1,0 +1,7 @@
+.notFound{
+text-align: center;
+margin: 200px;
+}
+.notFound h2{
+    color: red;
+}

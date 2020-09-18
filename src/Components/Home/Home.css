@@ -1,0 +1,5 @@
+.post_container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 80px;
+}
